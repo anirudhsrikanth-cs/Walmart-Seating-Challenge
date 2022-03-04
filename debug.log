@@ -1,0 +1,2319 @@
+DEBUG:root:Reservation ID: R0001 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: None and vacant seat are None and seat requested are 6
+DEBUG:root:Reservation ID: R0001 Seat Requested : 6 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 9 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 11 and seat requested are 9
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:deleted node J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: None and vacant seat are None and seat requested are 3
+DEBUG:root:Reservation ID: R0001 Seat Requested : 6 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 9 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 11 and seat requested are 9
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:deleted node J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+INFO:root:Adding new root row to the List
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 3
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 3
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 2
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 1
+DEBUG:root:deleted node F
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 5
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 5
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 4
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 3
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 2
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 1
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 6
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 5
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 4
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 3
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 2
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 6
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 5
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 4
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 3
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 2
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 6
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 5
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 4
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 3
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 2
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+DEBUG:root:Reservation ID: R0017 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 5
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 5
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 4
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 3
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 2
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 1
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
+DEBUG:root:Reservation ID: R0001 Seat Requested : 2 
+INFO:root:Adding new root row to the List
+DEBUG:root:Reservation ID: R0002 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0003 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in J
+DEBUG:root:Reservation ID: R0004 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row H to the List
+DEBUG:root:Reservation ID: R0005 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0006 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in H
+DEBUG:root:Reservation ID: R0007 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row F to the List
+DEBUG:root:Reservation ID: R0008 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0009 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in F
+DEBUG:root:Reservation ID: R0010 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row D to the List
+DEBUG:root:Reservation ID: R0011 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0012 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in D
+DEBUG:root:Reservation ID: R0013 Seat Requested : 2 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 2
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 2
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:Addign new row B to the List
+DEBUG:root:Reservation ID: R0014 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 15 and seat requested are 5
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0015 Seat Requested : 3 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 3
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 7 and seat requested are 3
+DEBUG:root:No need to add a new node reservation can be accomodated in B
+DEBUG:root:Reservation ID: R0016 Seat Requested : 6 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 6
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 6
+DEBUG:root:No existing vacant node found, creating a new node.....!
+DEBUG:root:Reservation ID: R0017 Seat Requested : 5 
+DEBUG:root:Root node already present
+DEBUG:root:Current Node is: J and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is J with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: H and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is H with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: F and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is F with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: D and vacant seat are 1 and seat requested are 5
+DEBUG:root:Current Node is D with vacant seats 1
+DEBUG:root:Trying to find better match in other nodes.....
+DEBUG:root:Current Node is: B and vacant seat are 1 and seat requested are 5
+DEBUG:root:No existing vacant node found, creating a new node.....!
+INFO:root:splitting the booking
+DEBUG:root:current node name:J empty seats:1 current seat requested: 5
+DEBUG:root:deleted node J
+DEBUG:root:current node name:H empty seats:1 current seat requested: 4
+DEBUG:root:deleted node H
+DEBUG:root:current node name:F empty seats:1 current seat requested: 3
+DEBUG:root:deleted node F
+DEBUG:root:current node name:D empty seats:1 current seat requested: 2
+DEBUG:root:deleted node D
+DEBUG:root:current node name:B empty seats:1 current seat requested: 1
+INFO:root:Program Finished....Writing seats allocated to the file
+INFO:root:Check the terminal to fetch Output File path
